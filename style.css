@@ -1,9 +1,10 @@
 .hero {
   background: #f9f7fe;
   text-align: center;
+  padding: 100px 20px;
 }
 h2 {
-  font-size: 36px;
+  font-size: 48px;
 }
 h1 {
   font-size: 90px;
