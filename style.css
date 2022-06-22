@@ -16,13 +16,16 @@ h3 {
 .img-fluid {
   max-width: 100%;
 }
-#portfolio-link {
+.portfolio-link {
   display: flex;
   justify-content: center;
+}
+#portfolio-link {
   color: black;
   text-decoration: none;
   text-align: center;
   font-size: 18px;
   border: 1px solid black;
+  border-radius: 4px;
   padding: 20px 15px;
 }
