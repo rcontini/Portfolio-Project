@@ -19,6 +19,7 @@ h3 {
 #portfolio-link {
   display: block;
   margin: 0 auto;
+  color: black;
   text-decoration: none;
   text-align: center;
   font-size: 18px;
