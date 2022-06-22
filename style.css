@@ -13,3 +13,13 @@ h3 {
   font-size: 24px;
   color: #757575;
 }
+.img-fluid {
+  max-width: 100%;
+}
+#portfolio-link {
+  text-decoration: none;
+  text-align: center;
+  font-size: 18px;
+  border: 1px solid black;
+  padding: 20px 15px;
+}
