@@ -38,7 +38,7 @@ h3 {
   padding: 20px 15px;
   transition: all 150ms ease-in-out;
 }
-.portfolio-link:hover {
+#portfolio-link:hover {
   color: white;
   background: black;
 }
