@@ -28,6 +28,7 @@ h3 {
   justify-content: center;
 }
 #portfolio-link {
+  max-width: 20%;
   color: black;
   text-decoration: none;
   text-transform: capitalize;
@@ -41,4 +42,25 @@ h3 {
 #portfolio-link:hover {
   color: white;
   background: black;
+}
+
+@media (max-width: 596px) {
+  h2 {
+    font-size: 24px;
+  }
+  h1 {
+    font-size: 48px;
+  }
+  h3 {
+    font-size: 12px;
+  }
+  .about-header,
+  p,
+  a {
+    text-align: center;
+  }
+  p,
+  a {
+    font-size: 12px;
+  }
 }
