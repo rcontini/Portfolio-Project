@@ -56,11 +56,11 @@ h3 {
   }
   .about-header,
   p,
-  a {
+  .portfolio-link {
     text-align: center;
   }
   p,
-  a {
+  .portfolio-link {
     font-size: 18px;
   }
 }
