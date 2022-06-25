@@ -23,10 +23,6 @@ h3 {
   margin-bottom: 30px;
 }
 
-.portfolio-link {
-  display: flex;
-  justify-content: center;
-}
 #portfolio-link {
   max-width: 50%;
   color: black;
