@@ -22,7 +22,10 @@ h3 {
   margin-top: 30px;
   margin-bottom: 30px;
 }
-
+.portfolio-link {
+  display: flex;
+  justify-content: center;
+}
 #portfolio-link {
   max-width: 50%;
   color: black;
@@ -33,7 +36,6 @@ h3 {
   border: 1px solid black;
   border-radius: 4px;
   padding: 20px 15px;
-  margin-top: 20px;
   transition: all 150ms ease-in-out;
 }
 #portfolio-link:hover {
