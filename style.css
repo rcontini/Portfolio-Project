@@ -54,6 +54,8 @@ h3 {
   p,
   #portfolio-link {
     text-align: center;
+    display: block;
+    margin: 0 auto;
   }
   p,
   #portfolio-link {
