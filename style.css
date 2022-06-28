@@ -55,7 +55,10 @@ h3 {
 .about-section p {
   font-size: 18px;
 }
-.portfolio-container h3 {
+.portfolio-container {
+  padding: 100px 20px;
+}
+.portfolio-content h3 {
   text-align: center;
   line-height: 1.5;
   color: black;
