@@ -55,6 +55,11 @@ h3 {
 .about-section p {
   font-size: 18px;
 }
+.portfolio-container h3 {
+  text-align: center;
+  line-height: 1.5;
+  color: black;
+}
 @media (max-width: 596px) {
   .hero {
     padding: 50px 10px;
