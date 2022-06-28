@@ -22,11 +22,11 @@ h3 {
   margin-top: 30px;
   margin-bottom: 30px;
 }
-.portfolio-link {
+.button-link {
   display: flex;
   justify-content: center;
 }
-#portfolio-link {
+#button-link {
   max-width: 50%;
   color: black;
   text-decoration: none;
@@ -38,7 +38,7 @@ h3 {
   padding: 20px 15px;
   transition: all 150ms ease-in-out;
 }
-#portfolio-link:hover {
+#button-link:hover {
   color: white;
   background: black;
 }
@@ -70,13 +70,13 @@ h3 {
   }
   .about-header,
   p,
-  #portfolio-link {
+  #button-link {
     text-align: center;
     display: block;
     margin: 15px auto;
   }
   p,
-  #portfolio-link {
+  #button-link {
     font-size: 18px;
   }
   .about-section {
