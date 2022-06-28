@@ -23,7 +23,7 @@ h3 {
   margin-bottom: 30px;
 }
 .button-link {
-  display: flex;
+  display: inline-flex;
   justify-content: center;
 }
 #button-link {
