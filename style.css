@@ -80,6 +80,7 @@ h3 {
 .social-link {
   color: black;
   font-size: 18px;
+  padding: 15px;
 }
 .social-link:visited {
   color: black;
