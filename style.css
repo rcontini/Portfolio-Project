@@ -63,6 +63,9 @@ h3 {
   line-height: 1.5;
   color: black;
 }
+.contact-header {
+  font-size: 75px;
+}
 @media (max-width: 596px) {
   .hero {
     padding: 50px 10px;
