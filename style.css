@@ -78,6 +78,10 @@ h3 {
 }
 .social-link {
   color: black;
+  font-size: 18px;
+}
+.social-link:hover {
+  color: pink;
 }
 @media (max-width: 596px) {
   .hero {
