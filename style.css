@@ -69,6 +69,16 @@ h3 {
 .contact-header {
   font-size: 75px;
 }
+.email-link {
+  text-decoration: none;
+  color: black;
+}
+.email-link:hover {
+  color: pink;
+}
+.social-link {
+  color: black;
+}
 @media (max-width: 596px) {
   .hero {
     padding: 50px 10px;
