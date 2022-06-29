@@ -63,6 +63,10 @@ h3 {
   line-height: 1.5;
   color: black;
 }
+.contact-container{
+   padding: 100px 20px;
+} 
+}
 .contact-header {
   font-size: 75px;
 }
